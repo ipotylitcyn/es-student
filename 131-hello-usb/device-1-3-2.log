@@ -1,0 +1,18 @@
+задание: 1.3.2
+проект: 131-hello-usb
+устройство: 2e8a:000a
+серийный номер: E66098F29B227B32
+порт: COM7
+начало: 2026-09-30T19:54:40
+   0.821 <-- Hello, world!
+   1.821 <-- Hello, world!
+   2.821 <-- Hello, world!
+   3.821 <-- Hello, world!
+   4.821 <-- Hello, world!
+   5.822 <-- Hello, world!
+   6.822 <-- Hello, world!
+   7.821 <-- Hello, world!
+   8.822 <-- Hello, world!
+   9.822 <-- Hello, world!
+  10.822 <-- Hello, world!
+итог: принято строк 11 за 10.0 с
